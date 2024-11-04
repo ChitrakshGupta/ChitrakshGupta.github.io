@@ -420,6 +420,14 @@ section {
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
 }
 
+.card2 {
+  width: 70%;
+  height: 70%;
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
 .image {
   height: 200px; /* Adjust the height as needed */
   overflow: hidden;
